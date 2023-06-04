@@ -4,15 +4,8 @@
     "name": "JuiceiO-Dark",
     "selectedTokenSets": {
       "Core": "enabled",
-      "MainDS/Light": "disabled",
-      "MainDS/Dark": "disabled",
-      "CherryiO/Light": "disabled",
-      "CherryiO/Dark": "disabled",
-      "JuiceiO/Light": "disabled",
       "JuiceiO/Dark": "enabled",
-      "JuiceiO/Core": "enabled",
-      "CherryiO/Core": "disabled",
-      "MainDS/Core": "disabled"
+      "JuiceiO/Core": "enabled"
     },
     "$figmaStyleReferences": {
       "colors.neutral.100": "S:c7bc27e03bb4b33724d418f007411bbd987610c0,",
@@ -54,15 +47,8 @@
     "name": "CherryiO-Dark",
     "selectedTokenSets": {
       "Core": "enabled",
-      "MainDS/Light": "disabled",
-      "MainDS/Dark": "disabled",
-      "CherryiO/Light": "disabled",
       "CherryiO/Dark": "enabled",
-      "JuiceiO/Light": "disabled",
-      "JuiceiO/Dark": "disabled",
-      "JuiceiO/Core": "disabled",
-      "CherryiO/Core": "enabled",
-      "MainDS/Core": "disabled"
+      "CherryiO/Core": "enabled"
     },
     "$figmaStyleReferences": {
       "colors.neutral.100": "S:c7bc27e03bb4b33724d418f007411bbd987610c0,",
@@ -105,15 +91,8 @@
     "name": "CherryiO-Light",
     "selectedTokenSets": {
       "Core": "enabled",
-      "JuiceiO/Light": "disabled",
-      "JuiceiO/Dark": "disabled",
       "CherryiO/Light": "enabled",
-      "CherryiO/Dark": "disabled",
-      "MainDS/Light": "disabled",
-      "MainDS/Dark": "disabled",
-      "JuiceiO/Core": "disabled",
-      "CherryiO/Core": "enabled",
-      "MainDS/Core": "disabled"
+      "CherryiO/Core": "enabled"
     },
     "$figmaStyleReferences": {
       "Button_Text": "S:e8b2ab641d6b678fb80fc1fec4d506b173606f81,",
@@ -139,14 +118,7 @@
     "name": "MainDS-Light",
     "selectedTokenSets": {
       "Core": "enabled",
-      "JuiceiO/Light": "disabled",
-      "JuiceiO/Dark": "disabled",
-      "CherryiO/Light": "disabled",
-      "CherryiO/Dark": "disabled",
       "MainDS/Light": "enabled",
-      "MainDS/Dark": "disabled",
-      "JuiceiO/Core": "disabled",
-      "CherryiO/Core": "disabled",
       "MainDS/Core": "enabled"
     },
     "$figmaStyleReferences": {
@@ -190,14 +162,7 @@
     "name": "MainDS-Dark",
     "selectedTokenSets": {
       "Core": "enabled",
-      "JuiceiO/Light": "disabled",
-      "JuiceiO/Dark": "disabled",
-      "CherryiO/Light": "disabled",
-      "CherryiO/Dark": "disabled",
-      "MainDS/Light": "disabled",
       "MainDS/Dark": "enabled",
-      "JuiceiO/Core": "disabled",
-      "CherryiO/Core": "disabled",
       "MainDS/Core": "enabled"
     },
     "$figmaStyleReferences": {
@@ -252,14 +217,7 @@
     "selectedTokenSets": {
       "Core": "enabled",
       "JuiceiO/Light": "enabled",
-      "JuiceiO/Dark": "disabled",
-      "CherryiO/Light": "disabled",
-      "CherryiO/Dark": "disabled",
-      "MainDS/Light": "disabled",
-      "MainDS/Dark": "disabled",
-      "JuiceiO/Core": "enabled",
-      "CherryiO/Core": "disabled",
-      "MainDS/Core": "disabled"
+      "JuiceiO/Core": "enabled"
     },
     "$figmaStyleReferences": {
       "Button_Text": "S:e8b2ab641d6b678fb80fc1fec4d506b173606f81,",
