@@ -4,7 +4,7 @@
     "type": "color"
   },
   "_secondary": {
-    "value": "#3d3045",
+    "value": "{colors.neutral.200}",
     "type": "color"
   },
   "_accent": {

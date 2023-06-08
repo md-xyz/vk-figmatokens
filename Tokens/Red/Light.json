@@ -5,7 +5,7 @@
     "description": "Press here Princess"
   },
   "_secondary": {
-    "value": "#3d3045",
+    "value": "{colors.neutral.200}",
     "type": "color"
   },
   "_accent": {
@@ -53,11 +53,11 @@
         "type": "color"
       },
       "level-1": {
-        "value": "{colors.neutral.600}",
+        "value": "{colors.neutral.500}",
         "type": "color"
       },
       "level-2": {
-        "value": "{colors.neutral.600}",
+        "value": "{colors.neutral.400}",
         "type": "color"
       },
       "level-3": {

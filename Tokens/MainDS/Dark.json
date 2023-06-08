@@ -4,11 +4,15 @@
     "type": "color"
   },
   "_secondary": {
-    "value": "#7aa4ff",
+    "value": "{colors.neutral.200}",
     "type": "color"
   },
   "_tertiary": {
     "value": "#BC31EA",
+    "type": "color"
+  },
+  "_neutral": {
+    "value": "{colors.neutral.200}",
     "type": "color"
   },
   "_accent": {
@@ -56,7 +60,7 @@
         "type": "color"
       },
       "level-2": {
-        "value": "#141e30",
+        "value": "#333",
         "type": "color"
       },
       "level-3": {

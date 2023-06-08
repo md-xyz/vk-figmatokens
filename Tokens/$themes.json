@@ -37,7 +37,9 @@
       "utility.success.500": "S:7ffb1aad3924694a07799d4c85b79723e2ab982e,"
     },
     "selectedTokenSets": {
-      "Core": "enabled"
+      "Core": "enabled",
+      "Orange/Dark": "enabled",
+      "Orange/Core": "enabled"
     }
   },
   {
@@ -79,7 +81,9 @@
       "utility.success.400": "S:6ff8cac440d9ea9fc408581a8d161cf49850e370,"
     },
     "selectedTokenSets": {
-      "Core": "enabled"
+      "Core": "enabled",
+      "Red/Core": "enabled",
+      "Red/Dark": "enabled"
     }
   },
   {
@@ -104,17 +108,14 @@
       "High": "S:e678588d228a3e37698be835d2f6882b1375ac3c,"
     },
     "selectedTokenSets": {
-      "Core": "enabled"
+      "Core": "enabled",
+      "Red/Core": "enabled",
+      "Red/Light": "enabled"
     }
   },
   {
     "id": "d710086620c654afe76f07f2d9b8db64283c1abc",
     "name": "MainDS-Light",
-    "selectedTokenSets": {
-      "Core": "enabled",
-      "MainDS/Light": "enabled",
-      "MainDS/Core": "enabled"
-    },
     "$figmaStyleReferences": {
       "colors.neutral.100": "S:4526fceaaf39b393c406b42ce258c94f89771f64,",
       "colors.neutral.200": "S:342017af4cd53df30b05d08bf25f472bd6d046e0,",
@@ -149,6 +150,11 @@
       "XS": "S:6cbacaf2fbd98c551eb72a2805cb7880966b4f7f,",
       "utility.success.500": "S:f5b41736f8c61bd8e711f34b82eb162ae8db0d0f,",
       "utility.success.400": "S:13c287aa2dde3833334151232e53a1be62eaa2de,"
+    },
+    "selectedTokenSets": {
+      "Core": "enabled",
+      "MainDS/Light": "enabled",
+      "MainDS/Core": "enabled"
     }
   },
   {
@@ -268,7 +274,9 @@
       "XS": "S:850bbf3d2301768d7f31a065bd8e324a70107686,"
     },
     "selectedTokenSets": {
-      "Core": "enabled"
+      "Core": "enabled",
+      "Orange/Light": "enabled",
+      "Orange/Core": "enabled"
     }
   }
 ]

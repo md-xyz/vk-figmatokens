@@ -4,7 +4,11 @@
     "type": "color"
   },
   "_secondary": {
-    "value": "#7aa4ff",
+    "value": "{colors.neutral.300}",
+    "type": "color"
+  },
+  "_neutral": {
+    "value": "{colors.neutral.300}",
     "type": "color"
   },
   "_tertiary": {
@@ -52,11 +56,11 @@
         "type": "color"
       },
       "level-1": {
-        "value": "{colors.neutral.600}",
+        "value": "{colors.neutral.500}",
         "type": "color"
       },
       "level-2": {
-        "value": "{colors.neutral.600}",
+        "value": "{colors.neutral.400}",
         "type": "color"
       },
       "level-3": {
