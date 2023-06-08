@@ -1,12 +1,7 @@
 [
   {
     "id": "4719444a0dabbfdbd251ec9f321e0cf99c8f5d3e",
-    "name": "JuiceiO-Dark",
-    "selectedTokenSets": {
-      "Core": "enabled",
-      "JuiceiO/Dark": "enabled",
-      "JuiceiO/Core": "enabled"
-    },
+    "name": "Orange-Dark",
     "$figmaStyleReferences": {
       "colors.neutral.100": "S:c7bc27e03bb4b33724d418f007411bbd987610c0,",
       "colors.neutral.200": "S:68ff96fb3512c0ee560df16b3a48d702f3f368f0,",
@@ -40,16 +35,14 @@
       "XL": "S:6ad98fd63db7d158fa690e34d94d082f48e694bc,",
       "XS": "S:850bbf3d2301768d7f31a065bd8e324a70107686,",
       "utility.success.500": "S:7ffb1aad3924694a07799d4c85b79723e2ab982e,"
+    },
+    "selectedTokenSets": {
+      "Core": "enabled"
     }
   },
   {
     "id": "f628b8c1b49a1641b85b519d741c5b416bfe088c",
-    "name": "CherryiO-Dark",
-    "selectedTokenSets": {
-      "Core": "enabled",
-      "CherryiO/Dark": "enabled",
-      "CherryiO/Core": "enabled"
-    },
+    "name": "Red-Dark",
     "$figmaStyleReferences": {
       "colors.neutral.100": "S:c7bc27e03bb4b33724d418f007411bbd987610c0,",
       "colors.neutral.200": "S:68ff96fb3512c0ee560df16b3a48d702f3f368f0,",
@@ -84,16 +77,14 @@
       "XS": "S:850bbf3d2301768d7f31a065bd8e324a70107686,",
       "utility.success.500": "S:7ffb1aad3924694a07799d4c85b79723e2ab982e,",
       "utility.success.400": "S:6ff8cac440d9ea9fc408581a8d161cf49850e370,"
+    },
+    "selectedTokenSets": {
+      "Core": "enabled"
     }
   },
   {
     "id": "7730a5cb3ec7bc318f38cc2f6fd94ff00516cbb2",
-    "name": "CherryiO-Light",
-    "selectedTokenSets": {
-      "Core": "enabled",
-      "CherryiO/Light": "enabled",
-      "CherryiO/Core": "enabled"
-    },
+    "name": "Red-Light",
     "$figmaStyleReferences": {
       "Button_Text": "S:e8b2ab641d6b678fb80fc1fec4d506b173606f81,",
       "brand.primary500": "S:387b5a51e3b369677ccf85737473506873d5679c,",
@@ -111,6 +102,9 @@
       "Elevation-1": "S:781567327d68bb2fd50c3bfc880829aefe79f379,",
       "Elevation-2": "S:049ac4f9f791b92f7f6ab78d3f37c4ea4c60ddea,",
       "High": "S:e678588d228a3e37698be835d2f6882b1375ac3c,"
+    },
+    "selectedTokenSets": {
+      "Core": "enabled"
     }
   },
   {
@@ -213,12 +207,7 @@
   },
   {
     "id": "9035bc8e001add134e56b3126e24f780797ce44d",
-    "name": "JuiceiO-Light",
-    "selectedTokenSets": {
-      "Core": "enabled",
-      "JuiceiO/Light": "enabled",
-      "JuiceiO/Core": "enabled"
-    },
+    "name": "Orange-Light",
     "$figmaStyleReferences": {
       "Button_Text": "S:e8b2ab641d6b678fb80fc1fec4d506b173606f81,",
       "brand.primary500": "S:387b5a51e3b369677ccf85737473506873d5679c,",
@@ -277,6 +266,9 @@
       "L": "S:6737dd7291fec520cdc8fd196aab3beaebeaa46a,",
       "XL": "S:6ad98fd63db7d158fa690e34d94d082f48e694bc,",
       "XS": "S:850bbf3d2301768d7f31a065bd8e324a70107686,"
+    },
+    "selectedTokenSets": {
+      "Core": "enabled"
     }
   }
 ]
